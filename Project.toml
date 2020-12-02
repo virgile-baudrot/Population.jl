@@ -1,0 +1,15 @@
+name = "Population"
+uuid = "562cee50-7b55-4a4a-b9f5-04df9fb88f37"
+authors = ["virgile-baudrot <virgile-baudrot@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[compat]
+julia = "^1"
